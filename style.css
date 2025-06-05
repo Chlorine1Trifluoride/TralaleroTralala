@@ -1,13 +1,12 @@
 body {
     background-color:#000;
-    text-align:right;
+    text-align:center;
 }
 h1{
     color:#fff;
     font-size:70px;
     font-weight:50;
     line-height:0.5;
-    text-align:left;
     font-family: "Nanum Myeongjo", system-ui
 }
 
@@ -16,10 +15,9 @@ h3{
     font-size:30px;
     font-weight:100;
     line-height:0;
-    text-align:left;
     font-family: "Playfair Display" ,"cursive";
 img{
-    height:1000;
+    height:500;
 }
 
 
